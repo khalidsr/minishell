@@ -2,8 +2,7 @@
 MiniShell will introduce you to the world of shells, which provide a convenient text interface to interact with your system. Shells might seem very easy to understand but have very specific and defined behaviour in almost every single case, most of which will need to be handled properly.
 
 <h1> Installation </h1>
-Use the Makrfile
-
-Make
+<h2>Use the Makrfile</h2>
+<p>Make</p>
 <h1> Usage</h1>
-./minishell
+<p> ./minishell </p>
