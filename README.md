@@ -9,3 +9,4 @@ Make
 ```
   ./minishell
 ```
+<img width="535" alt="Screen Shot 2023-10-27 at 11 53 29 AM" src="https://github.com/khalidsr/minishell/assets/85410199/9c0718ab-5c54-4b61-8203-155a6e754efe">
