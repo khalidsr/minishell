@@ -7,5 +7,5 @@ Make
 ```
 ## Usage
 ```
-  ./minishell </a>
+  ./minishell
 ```
