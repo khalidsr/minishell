@@ -4,4 +4,4 @@ MiniShell will introduce you to the world of shells, which provide a convenient 
 <h1> Installation </h1>
 <a>Make</a>
 <h1> Usage</h1>
-<a> ./minishell </a>
+<a bg='tranceparent'> ./minishell </a>
